@@ -1,0 +1,7 @@
+Name: Luka
+Surname: Rusmir
+jmbg: 2112991752919
+Phone number: +38134737131
+email: rusmirluka@gmail.com
+Address: Dubrovacka 13
+Position: Cleaner

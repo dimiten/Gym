@@ -1,0 +1,12 @@
+Name: Ilija
+Surname: Stefanovic
+Membership id: 103
+jmbg: 3006980452378
+Phone number: +381605427524
+email: stefanovicilija@gmail.com
+Address: Kralja Petra 1
+Weight: 76kg
+Membership plan: Three months plan, 16 times per month: 6500 din
+Entries allowed per month: 16
+Times trained this month: 1
+Times trained past allowed number of times: 0

@@ -1,0 +1,12 @@
+Name: Lazar
+Surname: Petrovic
+Membership id: 102
+jmbg: 2408989436518
+Phone number: +381695238952
+email: petroviclazar@yahoo.com
+Address: Dunavska 11
+Weight: 71kg
+Membership plan: One month plan, unlimited times per month: 3000 din
+Entries allowed per month: unlimited
+Times trained this month: 0
+Times trained past allowed number of times: 0

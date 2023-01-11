@@ -1,0 +1,7 @@
+Name: Uros
+Surname: Seferovic
+jmbg: 1003999432770
+Phone number: +3816954287954
+email: seferovicuros@gmail.com
+Address: Braca Baruh 3
+Position: Trainer

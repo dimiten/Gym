@@ -1,0 +1,12 @@
+Name: Jelena
+Surname: Radisic
+Membership id: 105
+jmbg: 2809999430610
+Phone number: +3816387483194
+email: radisicjelena@gmail.com
+Address: Savska 9
+Weight: 56kg
+Membership plan: One month plan, unlimited times per month: 3000 din
+Entries allowed per month: unlimited
+Times trained this month: 1
+Times trained past allowed number of times: 0

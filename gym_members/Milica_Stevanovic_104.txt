@@ -1,0 +1,12 @@
+Name: Milica
+Surname: Stevanovic
+Membership id: 104
+jmbg: 1203997453273
+Phone number: +38164747194731
+email: stevanovicmilica@gmail.com
+Address: Venizelisova 45
+Weight: 63kg
+Membership plan: Three months plan, unlimited times per month: 7500 din
+Entries allowed per month: unlimited
+Times trained this month: 0
+Times trained past allowed number of times: 0

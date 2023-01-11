@@ -1,0 +1,12 @@
+Name: Marko
+Surname: Stanicic
+Membership id: 101
+jmbg: 1301998764517
+Phone number: +381649432055
+email: stanicicmarko@gmail.com
+Address: Cara Urosa 5
+Weight: 87kg
+Membership plan: One month plan, 12 times per month: 2000 din
+Entries allowed per month: 12
+Times trained this month: 0
+Times trained past allowed number of times: 0
